@@ -1,0 +1,54 @@
+Gerekli Araçlar Ve Toolar 
+
+Windows Sysinternals
+
+-autoruns.Exe
+-procmon.Exe
+-drivermon
+
+Process Hacker 
+
+- Autoruns Nedir Bilgisayar Başlangıcında Çalıştırılan Tüm Executable Fileları Gösterir 
+ 
+Genellikle Virüsler Sistemde Kalıcılığı Sevdiği İçin Bu Araç İle Başlangıçta Nelerin Çalıştığını Görebiliriz
+
+Daha Sora Bilinmeyen 3.Cü Parti Yazılımı Programları Analiz Ederek Kaldırabilirsiniz
+
+Dijital Kod İmzasına Bakmanızı Tavsiye Ederim
+
+- Procmon Nedir 
+
+Procmon Bilgisayarda Çalışan Her Thread Her Processi Bize En Ayrıntısına Kadar Göstermektedir
+
+-drivermon
+
+Arka Tarafta Çalışan Bütün Driverları Gösterir 
+
+Driverlar Process Olarak Çalışmadığı İçin Drivermondan Çalışan Ve Çalışmayan Bütün Driverları Gösterir
+
+-process Hacker 
+
+Bana Kalırsa Procmon Dan Daha İyi 
+
+Çalıştan Bütün Processleri Driverları Ve Giden Gelen Veriyi Göstermektedir 
+
+Process Hackerdan Network Kısmına Gelin Remote Porta Tıklayın 
+
+Daha Sora Orda Hangi Processin Hangi İp Adresi Ve Porta Veri Yolladığını Görebilirsiniz
+
+Whois Ve Checkhost Yardımıyla İp Adresine Sorgu Atabilirsiniz Ve Main Rat Panelinin İp Adresini Bulabilirsiniz
+
+Windows Processleri Olsa Bile Bakın Çünkü Windowsun Kendi Processlerine Virüs İnject Edilebiliyor 
+
+Genellikle Ratlar 4 Haneli Port Kullanır Portları Analiz Ederekte Anlayabilirsiniz
+
+
+-task Cheduller & Taskmanager 
+
+Task Cheduller İle Bilgisayarında Zamanlıyıcı İle Başlatılan Dosyaları Görebilirsiniz
+
+Taskmanagerden Startupa Bakabilirsiniz 
+
+
+
+
